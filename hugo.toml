@@ -1,4 +1,16 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "ananke"
+baseURL = "https://example.org/"
+languageCode = "zh-tw"
+title = "Cheese's Blog"
+theme = "PaperMod"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  archive = "archives"
+
+[params]
+  ShowToc = true  # 顯示文章目錄
+  ShowReadingTime = true  # 顯示閱讀時間
+  ShowBreadCrumbs = true  # 顯示路徑
+  sectionPagesMenu = "main"
+  mainSections = ["posts"]  # 讓首頁顯示 `content/posts/` 內的文章
