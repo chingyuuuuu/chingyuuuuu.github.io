@@ -1,5 +1,9 @@
 +++
-date = '2025-02-21T20:06:10+08:00'
-draft = true
-title = 'My First Post'
+title = "在大學學會的事?"
+date = "2025-02-28T20:06:10+08:00"
+draft = false
+categories = ["日常"]
 +++
+
+# 在大學學會的事?
+這是我第一篇文章~
