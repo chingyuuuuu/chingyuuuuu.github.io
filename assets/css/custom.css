@@ -1,0 +1,9 @@
+/* 強制桌面版也顯示 ☰ 漢堡選單 */
+.navbar-burger {
+    display: flex !important;
+}
+
+/* 隱藏桌面版傳統選單 */
+.navbar-menu {
+    display: none !important;
+}
