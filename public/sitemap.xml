@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2025-02-28T20:06:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://example.org/posts/my-first-post/</loc>
     <lastmod>2025-02-28T20:06:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2025-02-28T20:06:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://example.org/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2025-02-28T20:06:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-02-28T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.org/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://example.org/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://example.org/series/</loc>
   </url>
 </urlset>
