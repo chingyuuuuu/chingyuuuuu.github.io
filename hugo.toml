@@ -1,45 +1,42 @@
 baseURL = "https://example.org/"
 languageCode = "zh-tw"
 title = "Cheese's Blog"
-theme = "hugo-coder"
+theme = "PaperMod"
 
-[taxonomies]
+[taxonomies] # 文章分類系統
   category = "categories"
   tag = "tags"
   archive = "archives"
 
 [params]
+  defaultTheme = "light"  
   ShowToc = true  # 顯示文章目錄
   ShowReadingTime = true  # 顯示閱讀時間
   ShowBreadCrumbs = true  # 顯示路徑
-  sectionPagesMenu = "main"
-  mainSections = ["posts"]
-  enableProfile = false  # 啟用個人簡介
+  sectionPagesMenu = "main"# 讓所有 Section 自動加入 `menu.main`
+  mainSections = ["posts"] 
+  author = "Ching"
+  subtitle = "分享人生"
+  keywords = ["Blog","技術","生活"]
+  favicon = "/favicon.ico" 
+  customCSS = ["css/custom.css"]
+
 
 [params.profile]
-  enabled = true  # 開啟個人簡介
+  enabled = true  # ✅ 開啟個人簡介
   name = "Ching"
-  bio = "Follow your heart"
-  avatarURL = "/img/avatar.png"  
+  bio = "Yolo！"
+  avatarURL = "/img/avatar.png"  # ✅ 請放入你的頭像圖片
   location = "Taiwan"
-  website = "https://chingservice.wixsite.com/ching"
   github = "https://github.com/chingyuuuuu"
+  instagram = "https://www.instagram.com/your_instagram/"
   youtube = "https://www.youtube.com/@kplan-e6r"
+  website = "https://chingservice.wixsite.com/ching"
 
-[[params.social]]
-  name = "website"
-  url = "https://chingservice.wixsite.com/ching"
-  weight = 1
-
-[[params.social]]
-  name = "github"
-  url = "https://github.com/chingyuuuuu"
-  weight = 2
-
-[[params.social]]
-  name = "youtube"
-  url = "https://www.youtube.com/@kplan-e6r"
-  weight = 3
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 
 [menu]

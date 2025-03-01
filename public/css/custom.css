@@ -1,0 +1,23 @@
+.about-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 800px; /* ✅ 控制內容寬度 */
+    margin: 0 auto; /* ✅ 讓內容置中 */
+  }
+  
+  .about-text {
+    flex: 1; /* ✅ 讓文字區塊自動填滿左側 */
+    padding-right: 20px; /* ✅ 讓文字與圖片保持間距 */
+  }
+  
+  .profile-img {
+    width: 150px;  /* ✅ 設定圖片大小 */
+    height: 150px;
+    border-radius: 50%; /* ✅ 讓圖片變圓形 */
+    object-fit: cover;
+  }
+  
+  body {
+    background-color: #ffffff !important; /* 例如：改成白色 */
+  }
