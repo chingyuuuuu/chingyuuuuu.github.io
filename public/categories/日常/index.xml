@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>日常 on Cheese&#39;s Blog</title>
-    <link>http://localhost:51123/categories/%E6%97%A5%E5%B8%B8/</link>
+    <link>https://example.org/categories/%E6%97%A5%E5%B8%B8/</link>
     <description>Recent content in 日常 on Cheese&#39;s Blog</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 28 Feb 2025 20:06:10 +0800</lastBuildDate>
-    <atom:link href="http://localhost:51123/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>上大學才了解的事?</title>
-      <link>http://localhost:51123/posts/my-first-post/</link>
+      <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Fri, 28 Feb 2025 20:06:10 +0800</pubDate>
-      <guid>http://localhost:51123/posts/my-first-post/</guid>
+      <guid>https://example.org/posts/my-first-post/</guid>
       <description>&lt;p&gt;&lt;strong&gt;純屬經驗分享，不喜歡就勿嘴勿讀物戰~&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;也到了快要畢業的時候，回想當初高中剛升上大學的時候，還懵懵懂懂的，就這樣不知不覺就大四了~&lt;/p&gt;
 &lt;h2 id=&#34;尋找自己真正想做的事&#34;&gt;尋找自己真正想做的事&lt;/h2&gt;
