@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>最新文章 on Cheese&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:51123/</link>
     <description>Recent content in 最新文章 on Cheese&#39;s Blog</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 28 Feb 2025 20:06:10 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51123/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>上大學才了解的事?</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:51123/posts/my-first-post/</link>
       <pubDate>Fri, 28 Feb 2025 20:06:10 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:51123/posts/my-first-post/</guid>
       <description>&lt;p&gt;&lt;strong&gt;純屬經驗分享，不喜歡就勿嘴勿讀物戰~&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;也到了快要畢業的時候，回想當初高中剛升上大學的時候，還懵懵懂懂的，就這樣不知不覺就大四了~&lt;/p&gt;
 &lt;h2 id=&#34;尋找自己真正想做的事&#34;&gt;尋找自己真正想做的事&lt;/h2&gt;
@@ -38,7 +38,7 @@
 &lt;/ul&gt;
 &lt;p&gt;即便考試考差，大不了再重修一次就好，挫折會使你成長的，俗話說的好「失敗為成功之母」。
 你會發現其實人生不用被這些規矩束縛住，即便你沒有遵守既定的人生規則，你的人生還是會很順利的過下去。
-但是&lt;strong&gt;缺乏自律，你的時間很快就會被吞噬掉&lt;/strong&gt;&lt;/p&gt;
+但是&lt;strong&gt;缺乏自律，你的時間很快就會被吞噬掉&lt;/strong&gt;。&lt;/p&gt;
 &lt;h3 id=&#34;時間管理的重要性&#34;&gt;時間管理的重要性&lt;/h3&gt;
 &lt;p&gt;你的成長取決於你的自我管理。
 今天上了半天的課，下午的時間就可以拿來做想做的事，例如複習今天所學到的知識，甚至是應用他等等，像是我就經常跑咖啡廳、圖書館。

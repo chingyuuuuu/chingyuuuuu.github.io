@@ -2,20 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>日常 on Cheese&#39;s Blog</title>
-    <link>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/</link>
+    <link>http://localhost:51123/categories/%E6%97%A5%E5%B8%B8/</link>
     <description>Recent content in 日常 on Cheese&#39;s Blog</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 28 Feb 2025 20:06:10 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51123/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>上大學才了解的事?</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:51123/posts/my-first-post/</link>
       <pubDate>Fri, 28 Feb 2025 20:06:10 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:51123/posts/my-first-post/</guid>
       <description>&lt;p&gt;&lt;strong&gt;純屬經驗分享，不喜歡就勿嘴勿讀物戰~&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;也到了快要畢業的時候，回想當初高中剛升上大學的時候，還懵懵懂懂的，就這樣不知不覺就大四了~&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;尋找自己真正想做的事&#34;&gt;尋找自己真正想做的事&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;自己想做的事&lt;/strong&gt;&amp;raquo;&amp;gt;考試&lt;/p&gt;
@@ -25,7 +24,10 @@
 &lt;li&gt;實習、打工、嘗試不同的職業&lt;/li&gt;
 &lt;li&gt;休學、Gap year等等&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;你的父母或是社會價值觀可能會要求你去讀這個科系，但是別忘了你的&lt;strong&gt;人生是你自己的，你需要自己選擇&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;你的父母或是社會價值觀可能會要求你去讀這個科系，但是別忘了你的&lt;strong&gt;人生是你自己的，你需要自己選擇&lt;/strong&gt;。
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
 &lt;h2 id=&#34;學會自律&#34;&gt;學會自律&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;在大學當中，沒有固定的作息時間，例如你今天是否要去上課，取決於你今天的心情&amp;gt;&amp;lt;
@@ -36,46 +38,60 @@
 &lt;/ul&gt;
 &lt;p&gt;即便考試考差，大不了再重修一次就好，挫折會使你成長的，俗話說的好「失敗為成功之母」。
 你會發現其實人生不用被這些規矩束縛住，即便你沒有遵守既定的人生規則，你的人生還是會很順利的過下去。
-但是&lt;strong&gt;缺乏自律，你的時間很快就會被吞噬掉&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id=&#34;時間管理的重要性&#34;&gt;時間管理的重要性&lt;/h4&gt;
+但是&lt;strong&gt;缺乏自律，你的時間很快就會被吞噬掉&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;時間管理的重要性&#34;&gt;時間管理的重要性&lt;/h3&gt;
 &lt;p&gt;你的成長取決於你的自我管理。
 今天上了半天的課，下午的時間就可以拿來做想做的事，例如複習今天所學到的知識，甚至是應用他等等，像是我就經常跑咖啡廳、圖書館。
 如果你不喜歡靜靜地坐著那也沒關係，你可以運用這些時間體驗你的人生，
 例如去你從未到過的地方旅行、環島，和朋友夜唱、夜衝等等，也可以嘗試打工看看，記得你有四年的時間可以運用，請盡情享受吧!&lt;/p&gt;
-&lt;h4 id=&#34;尋找目標培養習慣&#34;&gt;尋找目標，培養習慣&lt;/h4&gt;
+&lt;h3 id=&#34;尋找目標培養習慣&#34;&gt;尋找目標，培養習慣&lt;/h3&gt;
 &lt;p&gt;例如你可以嘗試
 -&lt;strong&gt;第二外語、英文檢定&lt;/strong&gt;
 -&lt;strong&gt;考專業證照&lt;/strong&gt;
 -&lt;strong&gt;學習投資、看yt學會新技能&lt;/strong&gt;
 會者是培養讀課外書、運動、記帳或是每天看英文新聞的習慣等等，你可能不覺得每天做這些有甚麼意義，但是四年之後，你就會發現你和別人之間的差距了(-:
 記得適當的休息，適當的學習，別讓自己停下來。
-&lt;strong&gt;持續不斷，才是成功的關鍵&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
+&lt;strong&gt;持續不斷，才是成功的關鍵&lt;/strong&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
 &lt;h2 id=&#34;人際關係的變化&#34;&gt;人際關係的變化&lt;/h2&gt;
+&lt;hr&gt;
 &lt;p&gt;✅&lt;strong&gt;高中:和同學朝夕相處，自然就會有朋友&lt;/strong&gt;
 ❌&lt;strong&gt;大學:上課是朋友，下課就變陌生人了QQ&lt;/strong&gt;
 和高中最大的差異，你的人際關係會有非常非常大的變化，有別於之前你會每天見到你的好朋友，甚至你可以在班上選擇和你相處得來的人說話。
 幸運的話，你的大學仍然可以找到一群好朋友，但是不幸的是，如果你不主動的話，你的朋友會非常的少，甚至是你的放學都是一個人過的。&lt;/p&gt;
-&lt;h4 id=&#34;等待別人主動不如自己主動&#34;&gt;等待別人主動，不如自己主動&lt;/h4&gt;
+&lt;h3 id=&#34;等待別人主動不如自己主動&#34;&gt;等待別人主動，不如自己主動&lt;/h3&gt;
 &lt;p&gt;剛開始的交朋友的話，一定都會有主動搭話的那一方，如果你通常是等待別人和你搭話的那種人，那你的大學會過得很辛苦的，所以說反正都有一方需要主動，那不如你就成為主動的那一方吧。
 &lt;strong&gt;主動也許會吃誇，但是不主動絕對沒機會&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id=&#34;接納不同的差異性&#34;&gt;接納不同的差異性&lt;/h4&gt;
+&lt;h3 id=&#34;接納不同的差異性&#34;&gt;接納不同的差異性&lt;/h3&gt;
 &lt;p&gt;你不能只和那些和你同等價值觀或者是相處好的人交往，需要嘗試看看接納不同種的人，即便你不喜歡他的思考方式，甚至是不在同個時空的那種，你需要試著理解和包容各種不同的人、甚至是不同的人種(例如日韓、港澳、印越等)。
-因為這樣可以大大的拓展你的人脈，在大學你會發現&lt;strong&gt;人脈真的很重要&lt;/strong&gt;，無論你是要分組、尋找機會、買賣交易等等，都會有很大的幫助，甚至到你出社會。&lt;/p&gt;
+因為這樣可以大大的拓展你的人脈，在大學你會發現&lt;strong&gt;人脈真的很重要&lt;/strong&gt;，無論你是要分組、尋找機會、買賣交易等等，都會有很大的幫助，甚至到你出社會。
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
 &lt;h2 id=&#34;善用大學和網路上的資源&#34;&gt;善用大學和網路上的資源&lt;/h2&gt;
+&lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;免費學習資源&lt;/strong&gt;:使用HyRead電子圖書資源、圖書館、開方式課程、YT線上教學&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;OneDrive免費雲端空間&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;各種學生優惠打折方案&lt;/strong&gt;:apple教育價&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;交換學生、實習、大學講座&lt;/strong&gt;:可以從學校官網和email找到&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;交換學生、實習、大學講座&lt;/strong&gt;:可以從學校官網和email找到
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;英文能力很重要&#34;&gt;英文能力很重要&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;無論是學術論文、各種課本教材都都滿滿的英文，或者是許多工作都會要求基本的英文能力，所以請用這四年好好學好英文吧~&lt;/p&gt;
-&lt;h4 id=&#34;如何提升英文能力&#34;&gt;如何提升英文能力?&lt;/h4&gt;
-&lt;p&gt;-&lt;strong&gt;每天聽一則podcast、看yt&lt;/strong&gt;
--&lt;strong&gt;考取英文證照等等&lt;/strong&gt;
--&lt;strong&gt;嘗試慢慢看懂原文書、各種Paper&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;如何提升英文能力&#34;&gt;如何提升英文能力?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;每天聽一則podcast、看yt&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;考取英文證照等等&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;嘗試慢慢看懂原文書、各種Paper&lt;/strong&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;好好享受四年自由的時光吧!&lt;/p&gt;</description>

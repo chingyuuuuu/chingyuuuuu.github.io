@@ -2,6 +2,12 @@
 .profile-img img {  /* 加上 img，確保作用在圖片上 */
   width: 150px;
   height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
+  border-radius: 50%; /* 讓圖片變圓 */
+  object-fit: cover; /* 填滿框框，不變形 */
+}
+body {
+  background-color: #ffffff !important; /* 設定新的背景顏色 */
+}
+#theme-toggle {
+  display: none !important;
 }
