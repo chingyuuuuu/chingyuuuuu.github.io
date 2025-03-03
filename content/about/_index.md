@@ -19,8 +19,13 @@ layout: "about"
 - 來自 Taiwan
 <br>
 <br>
----
 
+---
+### 聯絡我
+
+Email: plankcanon78@gmail.com
+
+---
 ### 社群媒體
 - [GitHub](https://github.com/chingyuuuuu)
 - [YouTube](https://www.youtube.com/@kplan-e6r) 
