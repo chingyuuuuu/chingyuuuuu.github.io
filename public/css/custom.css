@@ -5,9 +5,8 @@
   border-radius: 50%; /* 讓圖片變圓 */
   object-fit: cover; /* 填滿框框，不變形 */
 }
+
 body {
   background-color: #ffffff !important; /* 設定新的背景顏色 */
 }
-#theme-toggle {
-  display: none !important;
-}
+
