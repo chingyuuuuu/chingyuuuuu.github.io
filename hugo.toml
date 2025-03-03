@@ -19,7 +19,7 @@ theme = "PaperMod"
   subtitle = "分享人生"
   keywords = ["Blog","技術","生活"]
   favicon = "/favicon.ico" 
-  customCSS = ["css/custom.css?v=20250303"]
+  customCSS = ["css/custom.css"]
 
 
 [params.profile]
