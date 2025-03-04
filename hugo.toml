@@ -19,10 +19,11 @@ logo = "/img/avatar2.png"
   author = "Ching"
   subtitle = "分享人生"
   keywords = ["Blog","技術","生活"]
-  favicon = "/img/avatar2.png" 
+  favicon = "/img/favicon.ico" # 標題左邊
+  logo = "/img/avatar2.png" # 網站小圖標
   customCSS = ["css/custom.css"]
   disableThemeToggle = true
-  logo = "/img/avatar2.png"
+  
 
 
 

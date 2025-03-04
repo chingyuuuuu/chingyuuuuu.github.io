@@ -10,3 +10,7 @@ body {
   background-color: #ffffff !important; /* 設定新的背景顏色 */
 }
 
+.brand img {
+  height: 40px;
+  display: inline-block;
+}
