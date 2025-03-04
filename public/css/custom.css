@@ -6,9 +6,12 @@
   object-fit: cover; /* 填滿框框，不變形 */
 }
 
-body {
-  background-color: #ffffff !important; /* 設定新的背景顏色 */
+body, :root {
+  --theme: #ffffff !important;
+  --entry: #ffffff !important;
+  background-color: #ffffff !important; /* 這行是確保背景真的變白 */
 }
+
 
 .brand img {
   height: 40px;
